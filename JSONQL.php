@@ -1162,7 +1162,3 @@
      * @subpackage System
      */
     class JSONQLException extends Exception { }
-
-    $jsonql = new JSONQL('.');
-$query = $jsonql->query('SELECT * FROM blog ORDER BY age DESC LIMIT 0, 2');
-$results = $query->fetch();    var_dump($results);
