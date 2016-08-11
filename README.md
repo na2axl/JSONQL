@@ -209,4 +209,4 @@ $jsonql->delete_table('table_name');
 * **Axel Nana**: <ax.lnana@outlook.com> - [https://tutorialcenters.tk](https://tutorialcenters.tk)
 
 ## Copyright
-(c) 2016 Centers Technologies - Licenced under MIT.
+(c) 2016 Centers Technologies - Licensed under MIT.
