@@ -204,3 +204,9 @@ $jsonql->delete_database('/path/to/jsondb');
 ```php
 $jsonql->delete_table('table_name');
 ```
+
+## Authors
+* **Axel Nana**: <ax.lnana@outlook.com> - [https://tutorialcenters.tk](https://tutorialcenters.tk)
+
+## Copyright
+(c) 2016 Centers Technologies - Licenced under MIT.
